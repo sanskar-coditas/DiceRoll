@@ -45,4 +45,8 @@ class MainActivity : AppCompatActivity() {
         diceImage.setImageResource(drawableResource)
        // resultText.text= randomInt.toString()
     }
+
+
+
+    //This is line for checking conflicts master
 }
