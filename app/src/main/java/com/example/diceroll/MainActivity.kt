@@ -45,4 +45,11 @@ class MainActivity : AppCompatActivity() {
         diceImage.setImageResource(drawableResource)
        // resultText.text= randomInt.toString()
     }
+
+
+
+    //This feature is conflicted
+
+
+
 }
