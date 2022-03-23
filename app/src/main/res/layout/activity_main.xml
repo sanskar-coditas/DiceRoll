@@ -14,9 +14,6 @@
         android:layout_gravity="center_horizontal"
         android:src="@drawable/diceempty"
         tools:src="@drawable/diceempty"
-
-
-
         />
 
     <Button
